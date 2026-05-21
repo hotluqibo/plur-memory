@@ -1,0 +1,100 @@
+engrams:
+  - id: ENG-2026-0521-001
+    version: 2
+    status: active
+    consolidated: false
+    type: behavioral
+    scope: global
+    visibility: public
+    statement: 用户：hotluqibo，NAS：群晖 Synology SA6400，运行 MoviePilot、qBittorrent、cookiecloud
+    derivation_count: 1
+    pack: null
+    abstract: null
+    derived_from: null
+    knowledge_type:
+      memory_class: semantic
+      cognitive_level: apply
+    domain: user
+    tags: []
+    activation:
+      retrieval_strength: 0.7
+      storage_strength: 1
+      frequency: 0
+      last_accessed: "2026-05-21"
+    associations: []
+    knowledge_anchors: []
+    feedback_signals:
+      positive: 0
+      negative: 0
+      neutral: 0
+    polarity: null
+    content_hash: 2bf7da747ad9e1e3d7c42a308cdb2b9606e0b0919358f14dbe26161b9109dbe8
+    commitment: leaning
+    engram_version: 1
+    episode_ids: []
+  - id: ENG-2026-0521-002
+    version: 2
+    status: active
+    consolidated: false
+    type: behavioral
+    scope: global
+    visibility: public
+    statement: 朱雀 PT 站点抽奖接口：POST https://zhuque.in/api/gaming/spinThePrizeWheel，每次消耗1500灵石
+    derivation_count: 1
+    pack: null
+    abstract: null
+    derived_from: null
+    knowledge_type:
+      memory_class: semantic
+      cognitive_level: apply
+    domain: pt
+    tags: []
+    activation:
+      retrieval_strength: 0.7
+      storage_strength: 1
+      frequency: 0
+      last_accessed: "2026-05-21"
+    associations: []
+    knowledge_anchors: []
+    feedback_signals:
+      positive: 0
+      negative: 0
+      neutral: 0
+    polarity: null
+    content_hash: b662bd7aa642518c836c956526046add34ba88f08e42d1a7091328f60a0fe61c
+    commitment: leaning
+    engram_version: 1
+    episode_ids: []
+  - id: ENG-2026-0521-003
+    version: 2
+    status: active
+    consolidated: false
+    type: behavioral
+    scope: global
+    visibility: public
+    statement: Hermes Agent 配置路径：/opt/data/config.yaml
+    domain: hermes
+    activation:
+      retrieval_strength: 0.7
+      storage_strength: 1
+      frequency: 0
+      last_accessed: "2026-05-21"
+    feedback_signals:
+      positive: 0
+      negative: 0
+      neutral: 0
+    knowledge_type:
+      memory_class: semantic
+      cognitive_level: apply
+    knowledge_anchors: []
+    associations: []
+    derivation_count: 1
+    tags: []
+    pack: null
+    abstract: null
+    derived_from: null
+    polarity: null
+    content_hash: f9be038b8e44541511f4e523bfeb3e59a8e1c08695af57989dc0a7fb693b32c7
+    commitment: leaning
+    engram_version: 1
+    episode_ids: []
