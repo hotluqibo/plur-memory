@@ -42,3 +42,12 @@ Related: [Agent workspace](/concepts/agent-workspace)
 - 桌面电脑: Debian + GNOME (192.168.10.228)
 - 插电盒盖：息屏但不休眠
 - 息屏时间：1分钟（60秒）
+- NAS: Synology (192.168.10.18)，运行 MoviePilot
+- 桌面电脑: Debian + GNOME (192.168.10.228)
+- 插电盒盖：息屏但不休眠
+- 息屏时间：1分钟（60秒）
+- 住址：广东省江门市蓬江区
+- NAS: Synology (192.168.10.18)，运行 MoviePilot
+- 桌面电脑: Debian + GNOME (192.168.10.228)
+- 插电盒盖：息屏但不休眠
+- 息屏时间：1分钟（60秒）
