@@ -530,3 +530,33 @@ aippt, another_them, bdpan-storage, canvas-design, chuangye, cloud-upload-backup
 - **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
 - **NAS 备份路径**: 
 --
+- **NAS**: Synology SA6400 (192.168.10.18)，运行 MoviePilot、qBittorrent、cookiecloud
+- **桌面电脑**: Debian + GNOME (192.168.10.228)
+- **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
+- **NAS 备份路径**: 
+--
+
+## Hermes 记忆
+
+用户拥有多台设备，需要记住配置和访问方式。在广垦畜牧集团猪场从事兽药疫苗销售工作。
+## 相关设备
+- **NAS**: Synology SA6400 (192.168.10.18)，运行 MoviePilot、qBittorrent、cookiecloud
+- **桌面电脑**: Debian + GNOME (192.168.10.228)
+- **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
+- **NAS 备份路径**: 
+  - OpenClaw 备份: /volume1/homes/xiaolu/MAC备份/QClaw-Backup-20260525
+--
+
+## OpenClaw 记忆
+
+用户拥有多台设备，需要记住配置和访问方式。在广垦畜牧集团猪场从事兽药疫苗销售工作。
+## 相关设备
+- **NAS**: Synology SA6400 (192.168.10.18)，运行 MoviePilot、qBittorrent、cookiecloud
+- **桌面电脑**: Debian + GNOME (192.168.10.228)
+- **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
+- **NAS 备份路径**: 
+  - OpenClaw 备份: /volume1/homes/xiaolu/MAC备份/QClaw-Backup-20260525
+  - OpenClaw 工作区: /volume1/homes/xiaolu/MAC备份/QClaw/
+- **NAS**: Synology SA6400 (192.168.10.18)，运行 MoviePilot、qBittorrent、cookiecloud
+- **桌面电脑**: Debian + GNOME (192.168.10.228)
+- **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
