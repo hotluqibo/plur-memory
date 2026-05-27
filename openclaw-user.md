@@ -430,3 +430,8 @@ aippt, another_them, bdpan-storage, canvas-design, chuangye, cloud-upload-backup
 - **NAS 备份路径**: 
   - OpenClaw 备份: /volume1/homes/xiaolu/MAC备份/QClaw-Backup-20260525
 --
+- **NAS**: Synology SA6400 (192.168.10.18)，运行 MoviePilot、qBittorrent、cookiecloud
+- **桌面电脑**: Debian + GNOME (192.168.10.228)
+- **远程 PC**: 192.168.10.228，可 SSH 访问，密码 Qq134679
+- **NAS 备份路径**: 
+--
