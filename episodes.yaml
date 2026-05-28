@@ -334,3 +334,15 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-28T01:39:48.510Z'
+- id: EP-1779932626782-vesb
+  summary: |-
+    已修改。现在合盖不会休眠了：
+
+    - `HandleLidSwitch=ignore` - 合盖时忽略
+    - `HandleLidSwitchExternalPower=ignore` - 插电合盖忽略
+    - `HandleLidSwitchDocked=ignore` - 外接显示器合盖忽略
+
+    重启 systemd-logind 后生效。现在可以合盖测试一下。
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:43:46.782Z'
