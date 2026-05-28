@@ -220,3 +220,19 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-27T23:58:15.033Z'
+- id: EP-1779926353099-kzt9
+  summary: |-
+    本机运行状态正常了：
+
+    | 项目 | 状态 |
+    |------|------|
+    | 负载 | 2.21 ↓ |
+    | CPU | 16% (之前 100%) |
+    | 内存 | 2.3GB / 3.8GB (还有 1.5GB 可用) |
+    | 磁盘 | 25% 使用 |
+    | Swap | 2.7GB / 4GB |
+
+     Hermes 已停止，CPU 恢复正常，发热应该降下来了。
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-27T23:59:13.099Z'
