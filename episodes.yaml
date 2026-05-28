@@ -346,3 +346,13 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-28T01:43:46.782Z'
+- id: EP-1779932759468-i3jy
+  summary: HEARTBEAT_OK
+  agent: openclaw
+  session_id: a334629c-d703-4221-bd15-606032c09690
+  timestamp: '2026-05-28T01:45:59.468Z'
+- id: EP-1779932784000-rrkx
+  summary: 不需要重启，systemd-logind 已经重新加载了。现在可以直接合盖测试一下。
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:46:24.000Z'
