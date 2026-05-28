@@ -236,3 +236,15 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-27T23:59:13.099Z'
+- id: EP-1779926461521-3neh
+  summary: |-
+    **本机 Docker (192.168.10.124)：**
+
+    | 容器 | 镜像 | 状态 | 端口 |
+    |------|------|------|------|
+    | postgres | postgres:16-alpine | Up 5h | 5432 |
+    | dockge | louislam/dockge | Up (healthy) | 3001-3002, 5001 |
+    | mi
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T00:01:01.521Z'
