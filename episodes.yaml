@@ -307,3 +307,19 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-28T01:31:50.692Z'
+- id: EP-1779932331116-4wp0
+  summary: |-
+    完成！228 Docker 部署情况：
+
+    | 容器 | 镜像 | 端口 | 数据目录 |
+    |------|------|------|----------|
+    | postgres | postgres:16-alpine | 5432 | ~/docker/postgres/data |
+    | dockge | louislam/dockge:latest | 3001-3002 | ~/docke
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:38:51.116Z'
+- id: EP-1779932353780-fvgl
+  summary: 已移除代理。现在 228 会直接使用配置的镜像加速器下载。刚才已经部署好的容器用的是之前拉的镜像，不影响。
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:39:13.780Z'
