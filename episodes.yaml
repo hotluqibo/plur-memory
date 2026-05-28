@@ -278,3 +278,11 @@
   agent: openclaw
   session_id: a334629c-d703-4221-bd15-606032c09690
   timestamp: '2026-05-28T01:16:28.702Z'
+- id: EP-1779931717199-e253
+  summary: |-
+    已删除 228 上的 n8n。
+
+    本机的 n8n 配置和数据都在本地，克隆过去的容器没有对应的数据所以用不了。需要先把本机的 n8n 数据目录复制过去吗？
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:28:37.199Z'
