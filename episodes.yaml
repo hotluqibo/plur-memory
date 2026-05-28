@@ -323,3 +323,14 @@
   agent: openclaw
   session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
   timestamp: '2026-05-28T01:39:13.780Z'
+- id: EP-1779932388510-x7eu
+  summary: |-
+    已同步。本机 Docker daemon.json 配置：
+
+    | 配置项 | 值 |
+    |--------|-----|
+    | insecure-registries | 192.168.10.124:5000 |
+    | 镜像加速器 | docker.1ms.run, hub.rat.dev, dockerpull.org, docker.mirrors.ustc.edu.cn, mirror.baid
+  agent: openclaw
+  session_id: d20b8241-0a48-48aa-bdcf-2b3dee763ad9
+  timestamp: '2026-05-28T01:39:48.510Z'
